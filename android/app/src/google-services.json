@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900730551197",
+    "project_id": "eduso-8ed93",
+    "storage_bucket": "eduso-8ed93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900730551197:android:4fedc2edf0321887c2cd74",
+        "android_client_info": {
+          "package_name": "com.armaan.eduso.education.eduso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900730551197-88m4bm6eeo8h42872kck5n32ua5lohfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv0VXwSxBXBSbvq0BCnAmb97eZVwJhi6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900730551197-88m4bm6eeo8h42872kck5n32ua5lohfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

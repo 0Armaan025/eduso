@@ -1,6 +1,22 @@
 # eduso
 
-An education project for students and teachers
+An educational project for hard times and to manage huge amounts of data.It's a prototype which can be imporoved further,many features can be added.
+Made by Armaan-armaan33000@gmail.com
+
+I have used firebase and flutter for this project.
+
+It has features that includes:-
+  -sign up/sign in
+  -admin sign in
+  -reports
+  -enquiries
+  -classmates
+  -school details
+  -students profiles
+  -teachers list
+  -and some more too...
+  
+  I spent 48 hours for this project
 
 ## Getting Started
 

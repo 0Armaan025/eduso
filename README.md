@@ -1,7 +1,7 @@
 # eduso
 
 An educational project for hard times and to manage huge amounts of data.It's a prototype which can be imporoved further,many features can be added.
-Made by Armaan-armaan33000@gmail.com
+Made by Armaan- armaan33000@gmail.com
 
 I have used firebase and flutter for this project.
 
